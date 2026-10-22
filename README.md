@@ -28,3 +28,7 @@ Official website and Android APK releases for PK PHOTO EDITOR.
 5. ตรวจ URL feed แล้วทดสอบปุ่มตรวจสอบอัปเดตบนเครื่อง Android
 
 โปรดเก็บ signing key ไว้ในที่ปลอดภัยนอก repository การเปลี่ยน key จะอัปเดตทับรุ่นเดิมไม่ได้
+## QR ดาวน์โหลด
+
+หน้าเว็บมี QR Code ที่ลิงก์ไปยัง APK ใน latest release โดยตรง พร้อมปุ่มบันทึก QR ภาพ QR ถูกเก็บใน docs/assets/download-qr.png ไม่ใช้บริการ QR ภายนอก เมื่อเปลี่ยน URL ให้สร้างใหม่ด้วย scripts/generate-download-qr.py (qrcode[pil] 8.2 และ zxing-cpp 2.3.0) สคริปต์ตรวจอ่านกลับและขนาดแสดงผลทั้งสองแบบก่อนบันทึก
+
