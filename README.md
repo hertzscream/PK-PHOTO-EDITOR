@@ -5,7 +5,7 @@ Official website and Android APK releases for PK PHOTO EDITOR.
 - Website: https://hertzscream.github.io/PK-PHOTO-EDITOR/
 - Download: https://github.com/hertzscream/PK-PHOTO-EDITOR/releases/latest
 - Android 14 or later (API 34+)
-- Current version: 0.4.1 (versionCode 7), testing build signed with the existing debug certificate.
+- Current version: 0.4.2 (versionCode 8), testing build signed with the existing debug certificate.
 
 ## ใช้งาน
 
@@ -40,4 +40,7 @@ Official website and Android APK releases for PK PHOTO EDITOR.
 
 
 0.4.1 เพิ่มชื่อวันที่–เวลาอัตโนมัติและพื้นหลัง/การ์ดโปร่งใสมีมิติ
+
+
+0.4.2 แสดงภาพย่อในการ์ดโปรเจกต์ และตัวอย่างโทนจริงบนรูปที่เปิดอยู่หรือภาพสาธิตเมื่อยังไม่เปิดรูป
 
