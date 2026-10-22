@@ -5,7 +5,7 @@ Official website and Android APK releases for PK PHOTO EDITOR.
 - Website: https://hertzscream.github.io/PK-PHOTO-EDITOR/
 - Download: https://github.com/hertzscream/PK-PHOTO-EDITOR/releases/latest
 - Android 14 or later (API 34+)
-- Current version: 0.2.1 (versionCode 4), testing build signed with the existing debug certificate.
+- Current version: 0.3.0 (versionCode 5), testing build signed with the existing debug certificate.
 
 ## ใช้งาน
 
