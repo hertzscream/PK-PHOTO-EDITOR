@@ -5,7 +5,7 @@ Official website and Android APK releases for PK PHOTO EDITOR.
 - Website: https://hertzscream.github.io/PK-PHOTO-EDITOR/
 - Download: https://github.com/hertzscream/PK-PHOTO-EDITOR/releases/latest
 - Android 14 or later (API 34+)
-- Current version: 0.3.0 (versionCode 5), testing build signed with the existing debug certificate.
+- Current version: 0.4.0 (versionCode 6), testing build signed with the existing debug certificate.
 
 ## ใช้งาน
 
@@ -31,4 +31,10 @@ Official website and Android APK releases for PK PHOTO EDITOR.
 ## QR ดาวน์โหลด
 
 หน้าเว็บมี QR Code ที่ลิงก์ไปยัง APK ใน latest release โดยตรง พร้อมปุ่มบันทึก QR ภาพ QR ถูกเก็บใน docs/assets/download-qr.png ไม่ใช้บริการ QR ภายนอก เมื่อเปลี่ยน URL ให้สร้างใหม่ด้วย scripts/generate-download-qr.py (qrcode[pil] 8.2 และ zxing-cpp 2.3.0) สคริปต์ตรวจอ่านกลับและขนาดแสดงผลทั้งสองแบบก่อนบันทึก
+
+
+## 0.4.0
+โปรเจกต์แยกชุดรูป ความเข้มโทน 0–200% ใช้เฉพาะภาพ/ที่เลือก/ทั้งโปรเจกต์ จัดลำดับ โทนโปรด แก้ ซ่อน ถังขยะกู้คืน พร้อมโลโก้และฟอนต์เว็บใหม่
+
+พัฒนาโดย prasert sungthonglang รุ่นทดสอบ ยังไม่มีสำรองโปรเจกต์ ห้ามถอนแอปหรือล้างข้อมูลหากต้องการเก็บงาน
 
